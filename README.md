@@ -10,12 +10,12 @@ Página oficial do desafio: https://www.kaggle.com/c/talkingdata-adtracking-frau
 
 Esse projeto está dividido em 2 notebooks:
 
-- EDA (Exploratory Data Analysis)
-- Models
+- [EDA (Exploratory Data Analysis)](https://github.com/marcoayamada/td-click-fraud-detection/blob/master/EDA.ipynb)
+- [Models](https://github.com/marcoayamada/td-click-fraud-detection/blob/master/Models.ipynb)
 
 No primeiro ha uma análise exploratória sobre os dados, bem como alguns padrões econtrados. No segundo há a criação de alguns modelos preditivos para solucionar o problema.
 
-### Créditos:
+### Créditos
 
 Na primeira versão desse projeto foi feita uma tentativa de resolução com a criação de dados sintéticos (SMOTE e ADASYN) a partir de uma amostra pequena do dataset, porém, essa abordagem não funcionou muito bem e então parti para o conjunto completo.
 
