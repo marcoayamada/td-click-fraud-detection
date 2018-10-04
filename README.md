@@ -1,6 +1,6 @@
 # Desafio Kaggle de detecção de cliques falsos (TalkingData)
 
-> **Fui aprensentado a esse desafio pela *Data Science Academy* como parte de seu cronograma curricular.**
+>Fui apresentado a esse desafio pela *Data Science Academy* como parte de seu cronograma curricular.
 
 A proposta do desafio é encontrar uma forma de detectar cliques falsos em anúncios de aplicativos. Para isso foi dispoibilizado um dataset com quase 200 milhões de registros.
 
